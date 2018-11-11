@@ -5,7 +5,10 @@ AttriGuard 论文报告
  - 论文《AttriGuard: A Practical Defense Against
 Attribute Inference Attacks via Adversarial
 Machine LearningAttriGuard》
-的**论文**内容和**幻灯片**
+的
+   - **论文**
+   - **幻灯片**
+   - **会议视频**
  - 推理泄漏原理的**幻灯片**
   
 
